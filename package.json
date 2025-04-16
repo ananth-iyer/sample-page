@@ -1,0 +1,20 @@
+{
+  "name": "sample-page",
+  "description": "Ananth's Sample Page",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "author": "Ananth Iyer",
+  "dependencies": {
+    "@slidev/cli": "^51.5.0",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "^0.25.0",
+    "@slidev/theme-seriph": "^0.25.0",
+    "slidev-theme-dracula": "^0.2.0",
+    "slidev-theme-penguin": "^2.3.1",
+    "vite-svg-loader": "^5.1.0"
+  }
+}
